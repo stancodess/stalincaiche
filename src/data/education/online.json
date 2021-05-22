@@ -1,0 +1,11 @@
+{
+    "slug": "online",
+    "title": "Cursos en línea",
+    "description": "Cursos finalizados en plataformas de educación",
+    "items": [
+        {
+            "name": "Platzi",
+            "url": "https://codigofacilito.com/videos/crear-paginas-con-codigo"
+        }
+    ]
+}

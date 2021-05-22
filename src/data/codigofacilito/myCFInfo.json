@@ -1,0 +1,97 @@
+{
+    "data": {
+        "email": "stalin.caiche@gmail.com",
+        "username": "stancodes",
+        "certificates": [ ],
+        "articles": [ ],
+        "courses": [
+            {
+                "title": "Curso para crear tu primera página web Gratis",
+                "progress": "44.0",
+                "url": "http://codigofacilito.com/courses/primera_pagina"
+            },
+            {
+                "title": "Curso de PHP Básico Gratis (2011)",
+                "progress": "50.0",
+                "url": "http://codigofacilito.com/courses/PHP"
+            },
+            {
+                "title": "Curso de NodeJS Gratis",
+                "progress": "11.0",
+                "url": "http://codigofacilito.com/courses/nodejs"
+            },
+            {
+                "title": "Curso de Programación Orientada a Objetos con C#",
+                "progress": "14.0",
+                "url": "http://codigofacilito.com/courses/c_sharp"
+            },
+            {
+                "title": "Curso de Android Gratis",
+                "progress": "2.0",
+                "url": "http://codigofacilito.com/courses/android"
+            },
+            {
+                "title": "Curso de Ruby on Rails 4 Gratis",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/rails"
+            },
+            {
+                "title": "Curso a fondo de CSS",
+                "progress": "6.0",
+                "url": "http://codigofacilito.com/courses/css"
+            },
+            {
+                "title": "Curso Profesional de JavaScript",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/javascript-profesional"
+            },
+            {
+                "title": "JavaScript y el DOM",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/javascript-dom"
+            },
+            {
+                "title": "Proyecto Avanzado de Desarrollo Web Frontend",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/pagina-profesional"
+            },
+            {
+                "title": "Curso de controles y efectos Frontend",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/controles-efectos-frontend"
+            },
+            {
+                "title": "Curso Profesional de JAVA",
+                "progress": "9.0",
+                "url": "http://codigofacilito.com/courses/java-profesional"
+            },
+            {
+                "title": "Curso de Estructuras de Datos con JAVA",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/estructuras-java"
+            },
+            {
+                "title": "Curso de Patrones de Diseño con JAVA",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/patrones-diseno"
+            },
+            {
+                "title": "Curso de programación funcional en Java",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/java-programacion-funcional"
+            },
+            {
+                "title": "Curso de Java EE",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/java-ee"
+            },
+            {
+                "title": "Crea un sitio personal con Gatsby",
+                "progress": "53.0",
+                "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+            }
+        ],
+        "finished_courses": [ ]
+    },
+    "errors": [ ]
+}

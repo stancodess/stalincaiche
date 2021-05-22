@@ -1,0 +1,12 @@
+{
+    "slug": "others",
+    "title": "Talleres, diplomados",
+    "description": "Otros logros académicos",
+    "items": [
+        {
+            "name": "Platzi",
+            "degree": "Curso de React",
+            "score": "XX"
+        }
+    ]
+}

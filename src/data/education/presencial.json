@@ -1,0 +1,17 @@
+{
+    "slug": "presencial",
+    "title": "Formación académica",
+    "description": "Formación académica.",
+    "items": [
+        {
+            "name": "Universidad de Guayaquil",
+            "degree": "Ingeniero en Sistemas Computacionales",
+            "score": "98"
+        },
+        {
+            "name": "Dr. César Borja Lavayen",
+            "degree": "Bachiller en Informática",
+            "score": "XX"
+        }
+    ]
+}
